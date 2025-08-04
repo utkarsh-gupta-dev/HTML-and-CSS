@@ -1,0 +1,51 @@
+p{
+  font-family:arial;
+}
+.img1{
+  width:200px;
+  height:230px;
+}
+.p1{
+  font-weight: bold;
+  padding-left: 11px;
+  font-size: large;
+  line-height: 0px;
+}
+.p2{
+  color:gray;
+  padding-left: 11px;
+  
+}
+.add-friend{
+  background-color: dodgerblue;
+  color:white;
+  border:none;
+  padding:10px;
+  padding-left:19px;
+  padding-right: 19px;
+  display: inline-block;
+  margin-left: 19px;
+  margin-bottom: 11px;
+  border-radius: 6px;
+  font-size:medium;
+  transition: padding 0.5s,
+      margin 0.5s,
+      background-color .05s;
+}
+.add-friend:active{
+  background-color: rgb(222, 221, 221);
+  color: black;
+}
+.add-friend:hover{
+  padding-left: 57px;
+  padding-right: 57px;
+  margin-left: 0px;
+  margin-right: 0px;
+  border-radius: 0px;
+  }
+
+.div1{
+  display:inline-block;
+  box-shadow: 0px 0px 7px rgba(128, 128, 128, 0.712);
+  margin-right:20px;
+}
